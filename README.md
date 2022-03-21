@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Feel free to checkout my [page](https://arthur-krom.github.io/) to see what I'm up to.
+
 <!--
 **Arthur-Krom/Arthur-Krom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
